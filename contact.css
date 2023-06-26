@@ -1,0 +1,99 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1 {
+    background-color: rgb(39, 159, 81);
+    height: 100vh;
+    width: 50%;
+}
+
+.div2 {
+    background-color: rgb(0, 50, 28);
+    height: 100vh;
+    width: 50%;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.h {
+    font-size: 30px;
+    text-decoration: underline rgb(0, 50, 28);
+    text-transform: uppercase;
+    margin-left: 90px;
+    margin-top: 150px;
+}
+
+.p {
+    margin-left: 90px;
+    font-size: 20px;
+    width: 600px;
+}
+
+.aa {
+    display: flex;
+    justify-content: center;
+    width: 370px;
+    margin-left: 60px;
+}
+
+.aa>a {
+    margin: 20px;
+}
+
+.hii {
+    height: 33px;
+    margin-left: 1px;
+}
+
+.pp {
+    margin-left: 90px;
+}
+
+.hd {
+    color: aliceblue;
+    margin-top: 160px;
+    margin-left: 60px;
+    font-size: 30px;
+    text-decoration: underline rgb(39, 159, 81);
+    text-transform: capitalize;
+}
+
+.fm {
+    margin-left: 60px;
+}
+
+.btns {
+    color: white;
+    margin-left: 60px;
+    background-color: transparent;
+    width: 120px;
+    height: 40px;
+}
+
+.fm>input {
+    padding: 10px 60% 10px 20px;
+}
+
+.fm>#msz {
+    padding-bottom: 60px;
+}
+
+.button>a {
+    padding: 10px 20px 10px 20px;
+    margin-top: 0px;
+    margin-right: -50%;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px;
+    border-color: green;
+}
+
+.button {
+    margin-top: 100px;
+    margin-left: 70px;
+}
